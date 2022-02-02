@@ -11,13 +11,14 @@ I am a full-stack web developer and a UX/UI designer.
 ## 🖥️ Back-end Development
 - [NodeJS](https://nodejs.org/), [Python](https://www.python.org/)
 - Web: [Express](https://expressjs.com/), [HapiJS](https://hapi.dev/)
+- [Socket.io](https://socket.io/)
 - [Nginx](https://www.nginx.com/)
 - [PM2](https://pm2.keymetrics.io/docs/usage/quick-start/)
-- [Socket.io](https://socket.io/)
-- ORM: [Objection.js](https://vincit.github.io/objection.js/), [Sequelize](https://sequelize.org/)
-- [PHP](https://www.php.net/), [MySQL](https://www.mysql.com/)
-- [RabbitMQ](https://www.rabbitmq.com/), [Redis](https://redis.io/)
 - Testing: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/), [Chai](https://www.chaijs.com/)
+- [PHP](https://www.php.net/), [MySQL](https://www.mysql.com/)
+- ORM: [Objection.js](https://vincit.github.io/objection.js/), [Sequelize](https://sequelize.org/)
+- [RabbitMQ](https://www.rabbitmq.com/), [Redis](https://redis.io/)
+- [WordPress](https://wordpress.com/)
 
 ## 🖼️ Design
 - [Figma](https://figma.com/)
@@ -25,6 +26,7 @@ I am a full-stack web developer and a UX/UI designer.
 
 ## 🛠️ General Skillsets
 - AWS [EC2](https://aws.amazon.com/ec2/), [S3](https://aws.amazon.com/s3/), [Elhttps://aws.amazon.com/elasticbeanstalk/ic Beanstalk](url)
+- [Heroku](https://www.heroku.com/)
 - [Git](https://git-scm.com/) & Git Workflows
 - Linux OS
 - [Arduino](https://www.arduino.cc/)
