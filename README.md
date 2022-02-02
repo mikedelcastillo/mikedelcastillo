@@ -2,33 +2,34 @@
 I am a full-stack web developer and a UX/UI designer. 
 
 ## 🎨 Front-end Development
-- Typescript
-- Vue 2, Vue 3, Vuex, Vue Router
-- SvelteJs, ReactJS
-- SASS, Pug
-- Leaflet
-- Progressive Web Apps
+- [Vue 2](https://vuejs.org/), [Vue 3](https://v3.vuejs.org/), [Vuex](https://vuex.vuejs.org/), [Vue Router](https://router.vuejs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [SVELTE](https://svelte.dev/), [ReactJS](https://reactjs.org/)
+- [SASS](https://sass-lang.com/), [Pug](https://pugjs.org/api/getting-started.html)
+- [Progressive Web Apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
 ## 🖥️ Back-end Development
-- NodeJS, Python
-- Web: Express, HapiJS
-- Socket.io
-- ORM: Objection, Sequelize
-- PHP, MySQL
-- RabbitMQ, Redis
-- Testing: Jest, Mocha, Chai
+- [NodeJS](https://nodejs.org/), [Python](https://www.python.org/)
+- Web: [Express](https://expressjs.com/), [HapiJS](https://hapi.dev/)
+- [Nginx](https://www.nginx.com/)
+- [PM2](https://pm2.keymetrics.io/docs/usage/quick-start/)
+- [Socket.io](https://socket.io/)
+- ORM: [Objection.js](https://vincit.github.io/objection.js/), [Sequelize](https://sequelize.org/)
+- [PHP](https://www.php.net/), [MySQL](https://www.mysql.com/)
+- [RabbitMQ](https://www.rabbitmq.com/), [Redis](https://redis.io/)
+- Testing: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/), [Chai](https://www.chaijs.com/)
 
 ## 🖼️ Design
-- Figma
-- Photoshop
+- [Figma](https://figma.com/)
+- [Photoshop](https://www.adobe.com/sea/products/photoshop.html)
 
 ## 🛠️ General Skillsets
-- AWS EC2, S3, Elastic Beanstalk
-- Git & Git Workflows
+- AWS [EC2](https://aws.amazon.com/ec2/), [S3](https://aws.amazon.com/s3/), [Elhttps://aws.amazon.com/elasticbeanstalk/ic Beanstalk](url)
+- [Git](https://git-scm.com/) & Git Workflows
 - Linux OS
-- Arduino
+- [Arduino](https://www.arduino.cc/)
 
 ## 🧑‍💻 Currently Learning
-- ORM: Prisma
-- Rive
-- SvelteKit
+- [Prisma](https://www.prisma.io/)
+- [Rive](https://rive.app/)
+- [SvelteKit](https://kit.svelte.dev/)
