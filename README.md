@@ -22,7 +22,8 @@ I am a full-stack web developer and a UX/UI designer.
 
 ## 🖼️ Design
 - [Figma](https://figma.com/)
-- [Photoshop](https://www.adobe.com/sea/products/photoshop.html)
+- [Photoshop](https://www.adobe.com/sea/products/photoshop.html), [Illustrator](https://www.adobe.com/sea/products/illustrator.html)
+- [Fusion 360](https://asean.autodesk.com/products/fusion-360/overview)
 
 ## 🛠️ General Skillsets
 - AWS [EC2](https://aws.amazon.com/ec2/), [S3](https://aws.amazon.com/s3/), [Elhttps://aws.amazon.com/elasticbeanstalk/ic Beanstalk](url)
