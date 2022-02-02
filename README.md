@@ -9,7 +9,7 @@ I am a full-stack web developer and a UX/UI designer.
 - [Progressive Web Apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
 ## 🖥️ Back-end Development
-- [NodeJS](https://nodejs.org/), [Python](https://www.python.org/)
+- [NodeJS](https://nodejs.org/), [Python](https://www.python.org/), [Apps Script](https://developers.google.com/apps-script)
 - Web: [Express](https://expressjs.com/), [HapiJS](https://hapi.dev/)
 - [Socket.io](https://socket.io/)
 - [Nginx](https://www.nginx.com/)
