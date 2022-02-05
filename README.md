@@ -28,7 +28,7 @@ I am a full-stack web developer and a UX/UI designer.
 - [Fusion 360](https://asean.autodesk.com/products/fusion-360/overview)
 
 ## 🛠️ General Skillsets
-- AWS [EC2](https://aws.amazon.com/ec2/), [S3](https://aws.amazon.com/s3/), [Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
+- AWS [EC2](https://aws.amazon.com/ec2/), [S3](https://aws.amazon.com/s3/), [RDS](https://aws.amazon.com/rds/), [Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
 - [Heroku](https://www.heroku.com/)
 - [Git](https://git-scm.com/) & Git Workflows
 - Linux OS
