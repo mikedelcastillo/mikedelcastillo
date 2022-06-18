@@ -6,6 +6,7 @@ I am a full-stack web developer and a UX/UI designer.
 - [ReactJS](https://reactjs.org/), [NextJS](https://nextjs.org/), [Jotai](https://jotai.org/), [Redux](https://redux.js.org/), [React Router](https://reactrouter.com/)
 - [Typescript](https://www.typescriptlang.org/)
 - [SVELTE](https://svelte.dev/)
+- [Lottie](https://lottiefiles.com/)
 - [SASS](https://sass-lang.com/), [Pug](https://pugjs.org/api/getting-started.html)
 - [ThreeJS](https://threejs.org/), [PixiJS](https://pixijs.com/), [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 - [Progressive Web Apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
@@ -34,7 +35,9 @@ I am a full-stack web developer and a UX/UI designer.
 - [Git](https://git-scm.com/) & Git Workflows
 - Linux OS
 - [Arduino](https://www.arduino.cc/)
+- [Cura](https://ultimaker.com/software/ultimaker-cura), [Klipper](https://www.klipper3d.org/), [grbl](https://github.com/grbl/grbl)
 
 ## 🧑‍💻 Currently Learning
-- [Lottie](https://lottiefiles.com/), [Rive](https://rive.app/)
-- [SvelteKit](https://kit.svelte.dev/)
+- [Flutter](https://flutter.dev/), [React Native](https://reactnative.dev/)
+- [SvelteKit](https://kit.svelte.dev/), [Angular](https://angular.io/)
+- [Rive](https://rive.app/)
