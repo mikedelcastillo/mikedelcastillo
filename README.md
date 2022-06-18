@@ -6,8 +6,8 @@ I am a full-stack web developer and a UX/UI designer.
 - [ReactJS](https://reactjs.org/), [NextJS](https://nextjs.org/), [Jotai](https://jotai.org/), [Redux](https://redux.js.org/), [React Router](https://reactrouter.com/)
 - [Typescript](https://www.typescriptlang.org/)
 - [SVELTE](https://svelte.dev/)
-- [Lottie](https://lottiefiles.com/)
 - [SASS](https://sass-lang.com/), [Pug](https://pugjs.org/api/getting-started.html)
+- [Lottie](https://lottiefiles.com/)
 - [ThreeJS](https://threejs.org/), [PixiJS](https://pixijs.com/), [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 - [Progressive Web Apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 
@@ -15,6 +15,7 @@ I am a full-stack web developer and a UX/UI designer.
 - [NodeJS](https://nodejs.org/), [Python](https://www.python.org/), [Apps Script](https://developers.google.com/apps-script)
 - [Docker](https://www.docker.com/)
 - Web: [Express](https://expressjs.com/), [HapiJS](https://hapi.dev/)
+- [Firebase](https://firebase.google.com/), [MeiliSearch](https://www.meilisearch.com/)
 - [Socket.io](https://socket.io/)
 - [Nginx](https://www.nginx.com/)
 - [PM2](https://pm2.keymetrics.io/docs/usage/quick-start/)
@@ -29,7 +30,7 @@ I am a full-stack web developer and a UX/UI designer.
 - [Photoshop](https://www.adobe.com/sea/products/photoshop.html), [Illustrator](https://www.adobe.com/sea/products/illustrator.html)
 - [Fusion 360](https://asean.autodesk.com/products/fusion-360/overview) (CAD, CAM)
 
-## 🛠️ General Skillsets
+## 🛠️ General Knowledge & Skillsets
 - AWS [EC2](https://aws.amazon.com/ec2/), [S3](https://aws.amazon.com/s3/), [RDS](https://aws.amazon.com/rds/), [Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
 - [Heroku](https://www.heroku.com/)
 - [Git](https://git-scm.com/) & Git Workflows
