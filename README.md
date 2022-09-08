@@ -21,7 +21,7 @@ I am a full-stack web developer and a UX/UI designer.
 - [PM2](https://pm2.keymetrics.io/docs/usage/quick-start/)
 - Testing: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/), [Chai](https://www.chaijs.com/)
 - [PHP](https://www.php.net/), [MySQL](https://www.mysql.com/)
-- ORM: [Prisma](https://www.prisma.io/), [Objection.js](https://vincit.github.io/objection.js/), [Sequelize](https://sequelize.org/)
+- ORM: [Prisma](https://www.prisma.io/), [TypeORM](https://typeorm.io/), [Objection.js](https://vincit.github.io/objection.js/), [Sequelize](https://sequelize.org/)
 - [RabbitMQ](https://www.rabbitmq.com/), [Redis](https://redis.io/)
 - [WordPress](https://wordpress.com/)
 
@@ -29,6 +29,7 @@ I am a full-stack web developer and a UX/UI designer.
 - [Figma](https://figma.com/)
 - [Photoshop](https://www.adobe.com/sea/products/photoshop.html), [Illustrator](https://www.adobe.com/sea/products/illustrator.html)
 - [Fusion 360](https://asean.autodesk.com/products/fusion-360/overview) (CAD, CAM)
+- [OpenSCAD](https://openscad.org/)
 
 ## 🛠️ General Knowledge & Skillsets
 - AWS [EC2](https://aws.amazon.com/ec2/), [S3](https://aws.amazon.com/s3/), [RDS](https://aws.amazon.com/rds/), [Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
