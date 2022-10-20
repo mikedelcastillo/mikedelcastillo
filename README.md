@@ -1,12 +1,13 @@
 # Hello, I'm Mike 👋
-I am a full-stack web developer and a UX/UI designer. 
+I am a Software Engineer and a UX/UI designer. 
 
 ## 🎨 Front-end Development
-- [Vue 2](https://vuejs.org/), [Vue 3](https://v3.vuejs.org/), [Vuex](https://vuex.vuejs.org/), [Vue Router](https://router.vuejs.org/)
-- [ReactJS](https://reactjs.org/), [NextJS](https://nextjs.org/), [Jotai](https://jotai.org/), [Redux](https://redux.js.org/), [React Router](https://reactrouter.com/)
 - [Typescript](https://www.typescriptlang.org/)
+- [ReactJS](https://reactjs.org/), [NextJS](https://nextjs.org/), [Jotai](https://jotai.org/), [Redux](https://redux.js.org/), [React Router](https://reactrouter.com/)
+- [Vue 2](https://vuejs.org/), [Vue 3](https://v3.vuejs.org/), [Vuex](https://vuex.vuejs.org/), [Vue Router](https://router.vuejs.org/)
 - [SVELTE](https://svelte.dev/)
 - [SASS](https://sass-lang.com/), [Pug](https://pugjs.org/api/getting-started.html)
+- [PixiJS](https://pixijs.com/)
 - [Lottie](https://lottiefiles.com/)
 - [ThreeJS](https://threejs.org/), [PixiJS](https://pixijs.com/), [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 - [Progressive Web Apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
@@ -16,13 +17,14 @@ I am a full-stack web developer and a UX/UI designer.
 - [Docker](https://www.docker.com/)
 - Web: [Express](https://expressjs.com/), [HapiJS](https://hapi.dev/)
 - [Firebase](https://firebase.google.com/), [MeiliSearch](https://www.meilisearch.com/)
-- [Socket.io](https://socket.io/)
+- [ws](https://github.com/websockets/ws), [Socket.io](https://socket.io/)
 - [Nginx](https://www.nginx.com/)
 - [PM2](https://pm2.keymetrics.io/docs/usage/quick-start/)
 - Testing: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/), [Chai](https://www.chaijs.com/)
 - [PHP](https://www.php.net/), [MySQL](https://www.mysql.com/)
 - ORM: [Prisma](https://www.prisma.io/), [TypeORM](https://typeorm.io/), [Objection.js](https://vincit.github.io/objection.js/), [Sequelize](https://sequelize.org/)
 - [RabbitMQ](https://www.rabbitmq.com/), [Redis](https://redis.io/)
+- [Electron](https://www.electronjs.org/)
 - [WordPress](https://wordpress.com/)
 
 ## 🖼️ Design
@@ -40,6 +42,6 @@ I am a full-stack web developer and a UX/UI designer.
 - [Cura](https://ultimaker.com/software/ultimaker-cura), [Klipper](https://www.klipper3d.org/), [grbl](https://github.com/grbl/grbl)
 
 ## 🧑‍💻 Currently Learning
+- [Rust](https://www.rust-lang.org/)
+- [Go](https://go.dev/)
 - [Flutter](https://flutter.dev/), [React Native](https://reactnative.dev/)
-- [SvelteKit](https://kit.svelte.dev/), [Angular](https://angular.io/)
-- [Rive](https://rive.app/)
