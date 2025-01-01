@@ -15,6 +15,7 @@ I am a Software Engineer and a UX/UI designer.
 ## ☁ DevOps
 - [Amazon Web Services](https://aws.amazon.com/)
 - [Google Cloud Platform](https://cloud.google.com/)
+- [Microsoft Azure](https://azure.microsoft.com/)
 - [Digital Ocean](https://cloud.digitalocean.com/)
 - [Terraform](https://www.terraform.io/)
 
