@@ -12,15 +12,21 @@ I am a Software Engineer and a UX/UI designer.
 - [ws](https://github.com/websockets/ws), [Socket.io](https://socket.io/)
 - [RabbitMQ](https://www.rabbitmq.com/)
 
+## ☁ DevOps
+- [Amazon Web Services](https://aws.amazon.com/)
+- [Google Cloud Platform](https://cloud.google.com/)
+- [Digital Ocean](https://cloud.digitalocean.com/)
+- [Terraform](https://www.terraform.io/)
+
 ## 🖼️ Design
 - [Figma](https://figma.com/)
 - [Photoshop](https://www.adobe.com/sea/products/photoshop.html), [Illustrator](https://www.adobe.com/sea/products/illustrator.html)
-- [Fusion 360](https://asean.autodesk.com/products/fusion-360/overview) (CAD, CAM)
+- [OnShape](https://www.onshape.com/en/), [Fusion 360](https://asean.autodesk.com/products/fusion-360/overview) (CAD, CAM)
 - [OpenSCAD](https://openscad.org/)
 
 ## 🛠️ General Knowledge & Skillsets
-- AWS [EC2](https://aws.amazon.com/ec2/), [S3](https://aws.amazon.com/s3/)
 - [Arduino](https://www.arduino.cc/)
+- Git
 - Linux OS
 
 ## 🧑‍💻 Currently Learning
